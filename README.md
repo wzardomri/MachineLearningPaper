@@ -3,7 +3,7 @@ Machine Learning Verification and Correction
 By Omri Steinberg-Tatman and Jackson Vaughn
 
 On this github page is the paper we wrote together about the use of machine learning for the application of hardware correction and verification.
-The paper is open to read and share, along with all of the code written from generation to analysis.
+The paper is open to read and share, along with all of the code written from generation to analysis. Please feel free to take a look, we added all of the relevant prerequisite contextual information to make it easy to read for anyone, not just people who have experience in the field. The paper is linked HERE if you would like to see!
 
 We hope to have our paper published soon, and are planning a couple followup papers in the future! 
 Please reach out with any questions and comments.
