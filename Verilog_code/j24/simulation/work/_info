@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/19.1
+vj24
+Z0 !s110 1685571950
+!i10b 1
+!s100 S^AQlMm[aEVE@M1<R6VkC0
+I2_o:nh4fNM5O^D06KC3^z3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/j24/simulation
+w1685571563
+8C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/j24/j24.v
+FC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/j24/j24.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1685571950.000000
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/j24/j24.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/j24/j24.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_j24
+R0
+!i10b 1
+!s100 bQiXjSohWiM06SFBQkCaM2
+I^aWXfh[=:L]2FAg8fYf9<3
+R1
+R2
+w1685571913
+8C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/j24/tb_j24.v
+FC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/j24/tb_j24.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/j24/tb_j24.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/j24/tb_j24.v|
+!i113 1
+R5
+R6

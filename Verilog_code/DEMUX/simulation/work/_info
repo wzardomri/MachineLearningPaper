@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/simulation
+vdemux
+Z0 !s110 1683943842
+!i10b 1
+!s100 @l^=6jIkeCa6<e9TFOXZF2
+IfIRHeY?bjZazGE_:ckACz3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/simulation
+w1683943310
+8C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/demux.v
+FC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/demux.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1683943842.000000
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/demux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/demux.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_demux
+R0
+!i10b 1
+!s100 oe=@]zA0i:ih]^kSJQn^i2
+IJe9Bm?=XMbkLK[^V53o=I1
+R1
+R2
+w1683943837
+8C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/tb_demux.v
+FC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/tb_demux.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/tb_demux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/tb_demux.v|
+!i113 1
+R5
+R6

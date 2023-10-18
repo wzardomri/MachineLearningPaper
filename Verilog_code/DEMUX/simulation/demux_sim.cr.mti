@@ -1,0 +1,8 @@
+{C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/demux.v} {1 {vlog -work work -stats=none {C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/DEMUX/demux.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module demux
+
+Top level modules:
+	demux
+
+} {} {}}

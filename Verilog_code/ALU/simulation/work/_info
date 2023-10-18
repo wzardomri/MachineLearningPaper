@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/19.1
+valu
+Z0 !s110 1684175095
+!i10b 1
+!s100 ;L<R90eQ_l2Gz@[9oWgGW2
+I]WHd?X=b`ANz[Z5`UGbMl3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU/simulation
+w1684174949
+8C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU/alu.v
+FC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU/alu.v
+L0 38
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1684175095.000000
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU/alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU/alu.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vtb_alu
+R0
+!i10b 1
+!s100 45ba_3g6gP_oM>YBR`UWJ3
+IHS:zK_U0Kg3@CRNAYGZ>V0
+R1
+R2
+w1683932611
+8C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU/tb_alu.v
+FC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU/tb_alu.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU/tb_alu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU/tb_alu.v|
+!i113 1
+R5
+R6

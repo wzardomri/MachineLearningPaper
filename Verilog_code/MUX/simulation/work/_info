@@ -1,0 +1,73 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU
+vm81
+!s110 1683940768
+!i10b 1
+!s100 zXm0;oJgcG<_Y5KQC5=eD1
+ILFO87C[;GRoal@Y]fdB731
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/simulation
+w1683939860
+Z2 8C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/mux.v
+Z3 FC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/mux.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1683940768.000000
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/mux.v|
+Z5 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/mux.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+vmux
+Z8 !s110 1683941017
+!i10b 1
+!s100 A>9A243@P_UXfM:=<H_FX0
+I3K3f72jSf:9K@YIHY:S=71
+R0
+R1
+w1683940825
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+Z9 !s108 1683941017.000000
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/mux.v|
+R5
+!i113 1
+R6
+R7
+vtb_mux
+R8
+!i10b 1
+!s100 dZ;d>TcZ8V1^z8BZhYkiN1
+I=T2>7cZPddagMeU`]9UL83
+R0
+R1
+w1683940996
+8C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/tb_mux.v
+FC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/tb_mux.v
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/tb_mux.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/MUX/tb_mux.v|
+!i113 1
+R6
+R7

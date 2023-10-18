@@ -1,0 +1,76 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/ALU/simulation
+vT_FF
+!s110 1685064832
+!i10b 1
+!s100 _o8<>cAHeha]]@GkN@>^<3
+I2]>GXfPgeC=h_OEJF^Lhk3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+Z1 dC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/TFF/simulation
+w1685064818
+Z2 8C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/TFF/TFF.v
+Z3 FC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/TFF/TFF.v
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1685064832.000000
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/TFF/TFF.v|
+Z5 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/TFF/TFF.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@t_@f@f
+vtb_TFF
+Z8 !s110 1685080863
+!i10b 1
+!s100 `S]2e_Lk:TVNKlR1]OhhP3
+I=WS4@UDn>I`6WoLXFB18I3
+R0
+R1
+w1685080848
+8C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/TFF/tb_TFF.v
+FC:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/TFF/tb_TFF.v
+L0 2
+R4
+r1
+!s85 0
+31
+Z9 !s108 1685080863.000000
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/TFF/tb_TFF.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/TFF/tb_TFF.v|
+!i113 1
+R6
+R7
+ntb_@t@f@f
+vTFF
+R8
+!i10b 1
+!s100 [_bDJkz=dL`R41bZ?76HM2
+Ik>znkCkfeQ13Zjj<R:=;V2
+R0
+R1
+w1685070868
+R2
+R3
+L0 1
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/jacks/OneDrive/Desktop/Main/School/2022 - 2023/Spring 2023/EEC 283/Projects/TFF/TFF.v|
+R5
+!i113 1
+R6
+R7
+n@t@f@f
