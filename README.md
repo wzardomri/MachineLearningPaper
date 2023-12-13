@@ -8,7 +8,7 @@ The paper is open to read and share, along with all of the code written from gen
 We hope to have our paper published soon and are planning a couple of follow-up papers in the future! 
 Please reach out with any questions and comments.
 
-Along with the paper, we gave a presentation, and the slides for that can be found [HERE](https://github.com/wzardomri/MachineLearningPaper/blob/main/Project_Presentation.pdf)
+Along with the paper, we gave a presentation, and the slides for that can be found [HERE](https://github.com/wzardomri/MachineLearningPaper/blob/main/ProjectPresentation.pdf)
 
 The Verilog code to generate the digital output can be found [HERE](https://github.com/wzardomri/MachineLearningPaper/tree/main/Verilog_code)
 
