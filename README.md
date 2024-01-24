@@ -1,5 +1,5 @@
 # MachineLearningPaper
-Machine Learning Verification and Correction
+EEC 283 Machine Learning Verification and Correction
 By Omri Steinberg-Tatman and Jackson Vaughn
 
 On this GitHub page is the paper we wrote together about the use of machine learning for the application of hardware correction and verification.
